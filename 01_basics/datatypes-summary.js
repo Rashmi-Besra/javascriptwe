@@ -27,3 +27,20 @@ const myfun=function(){
     
 }
 console.log(typeof temp)
+
+
+//*************************************************** */
+
+//stack(primitive),Heap(non primitive)
+
+let myyoutube="RashmiBesra"
+let anothername=myyoutubeanothername="chaiaurcode"
+
+let user1={
+    email:"user@google.com",
+    upi:"user@ybl"
+}
+
+let user2=user1
+user2.email="rashmi7@gmail.com"
+}
